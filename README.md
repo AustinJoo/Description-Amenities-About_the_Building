@@ -6,10 +6,6 @@
 
    A team of developers each designed individual components and created them as full-stack applications, ultimately collaborating to create a complete listing page. The final application can be found [here](https://github.com/Team-Elysium/real-estate-listing-page).
 
-## Demonstration
-
-   For a comprehensive guide and demonstration of the application, click [here](https://github.com/Team-Elysium/real-estate-listing-page) and scroll down! 
-
 ## Setup
 - **Dependencies**
   - React framework for front-end
